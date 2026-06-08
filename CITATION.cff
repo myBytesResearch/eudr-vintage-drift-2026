@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "eudr-vintage-drift-2026 — Hansen-vintage drift snapshot"
+authors:
+  - family-names: Winger
+    given-names: Guido
+    affiliation: myBytes GmbH
+date-released: 2026-06-08
+license: MIT
+license-url: https://opensource.org/licenses/MIT
+repository-code: https://github.com/myBytesResearch/eudr-vintage-drift-2026
+abstract: >
+  Reproducibility bundle for the Hansen-vintage drift study in
+  the myBytes article eudr-update-2026. Computes EUDR-risk share
+  for two West-African cocoa-belt AOIs against Hansen GFC v2024
+  vs v2025, asserting the published values from a frozen snapshot.
