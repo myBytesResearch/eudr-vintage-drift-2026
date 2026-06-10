@@ -35,7 +35,7 @@ The notebook loads `data/runs/2026-06-08/vintage_drift.csv` (the
 canonical published snapshot) and asserts the four numbers above
 with a tolerance of ± 0.05 percentage points. If the assertion
 passes, the article numbers reproduce. If it fails, the snapshot
-and the article have drifted apart — that is a publishability
+and the article have drifted apart - that is a publishability
 gate.
 
 ## How the numbers were computed
@@ -92,9 +92,9 @@ focuses on the **vintage-drift study only**.
 |---|---|---|---|
 | Forest loss, 2024 vintage | `UMD/hansen/global_forest_change_2024_v1_12` | 30 m | open, attribution. Commercial reuse OK. |
 | Forest loss, 2025 vintage | `UMD/hansen/global_forest_change_2025_v1_13` | 30 m | open, attribution. Commercial reuse OK. |
-| Cocoa plantation probability | `projects/forestdatapartnership/assets/cocoa/model_2025a` | 10 m | **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — non-commercial** |
+| Cocoa plantation probability | `projects/forestdatapartnership/assets/cocoa/model_2025a` | 10 m | **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - non-commercial** |
 
-### License pitfall — read before commercial use
+### License pitfall - read before commercial use
 
 The cocoa-plantation-probability layer is licensed under
 **CC BY-NC 4.0**. Concretely:
@@ -120,14 +120,14 @@ Three distinct licences apply:
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **FDP-derived numerical values** (every risk-share value in
   this repository):
-  **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)** —
+  **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)** -
   upstream Forest Data Partnership. Commercial redistribution
   prohibited without FDP sub-licence.
 
 ## Citation
 
 ```
-Winger, G. (2026). eudr-vintage-drift-2026 — Hansen-vintage
+Winger, G. (2026). eudr-vintage-drift-2026 - Hansen-vintage
 drift snapshot for EUDR-risk monitoring in the West-African
 cocoa belt. Snapshot 2026-06-08. myBytesResearch.
 ```

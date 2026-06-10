@@ -1,4 +1,4 @@
-# Drift snapshot — 2026-06-08
+# Drift snapshot - 2026-06-08
 
 Canonical published snapshot for the Hansen-vintage drift study
 in [`eudr-update-2026`](https://mybytes.com/research/eudr-update-2026).
@@ -20,9 +20,9 @@ in [`eudr-update-2026`](https://mybytes.com/research/eudr-update-2026).
 
 ## Files
 
-- `area_summary.csv` — one row per (AOI × Hansen-vintage) with
+- `area_summary.csv` - one row per (AOI × Hansen-vintage) with
   plantation area, EUDR-risk area, risk share and full provenance.
-- `vintage_drift.csv` — one row per AOI with the 2024-vs-2025
+- `vintage_drift.csv` - one row per AOI with the 2024-vs-2025
   comparison and the Δ in percentage points (the canonical source
   for Plot 2 of the article).
 
