@@ -1,7 +1,7 @@
 # `eudr-vintage-drift-2026`
 
 > **Status:** Companion repository for the myBytes article
-> [`Sechs Monate vor dem neuen EUDR-Stichtag`](https://mybytes.com/research/notes/eudr-update-2026).
+> [`Sechs Monate vor dem neuen EUDR-Stichtag`](https://mybytes.com/research/eudr-update-2026).
 > Self-contained reproducibility bundle for the Hansen-vintage
 > drift comparison published in §2 of the article. Private during
 > the editorial-cool-down phase, planned visibility flip to public

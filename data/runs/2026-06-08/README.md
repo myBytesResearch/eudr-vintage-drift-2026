@@ -1,7 +1,7 @@
 # Drift snapshot — 2026-06-08
 
 Canonical published snapshot for the Hansen-vintage drift study
-in [`eudr-update-2026`](https://mybytes.com/research/notes/eudr-update-2026).
+in [`eudr-update-2026`](https://mybytes.com/research/eudr-update-2026).
 
 ## Run parameters
 
